@@ -2,7 +2,7 @@
 
 Name:       rubygem-%{oname}
 Version:    0.9.4
-Release:    %mkrel 1
+Release:    %mkrel 2
 Summary:    A ruby module for reading and writing zip files
 Group:      Development/Ruby
 License:    GPLv2+ or Ruby License

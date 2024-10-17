@@ -6,7 +6,7 @@ Release:    3
 Summary:    A ruby module for reading and writing zip files
 Group:      Development/Ruby
 License:    GPLv2+ or Ruby License
-URL:        http://rubyzip.sourceforge.net/
+URL:        https://rubyzip.sourceforge.net/
 Source0:    http://rubygems.org/gems/%{oname}-%{version}.gem
 BuildRoot:  %{_tmppath}/%{name}-%{version}-%{release}-root
 Requires:   rubygems
